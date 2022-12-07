@@ -1,0 +1,20 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: doxygen-theme
+Upstream-Contact: deepin doc doc go sig <>
+Source: https://github.com/linuxdeepin/doxygen-theme
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
+
+#README.md
+Files: README.md
+Copyright: 2022 deepin doc doc go sig
+License: CC-BY-4.0
+
+#doxygen-awesome-css
+Files: doxygen-awesome-css/*
+Copyright: 2021 - 2022 jothepro
+License: MIT
