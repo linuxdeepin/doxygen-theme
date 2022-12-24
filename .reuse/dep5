@@ -18,3 +18,8 @@ License: CC-BY-4.0
 Files: doxygen-awesome-css/*
 Copyright: 2021 - 2022 jothepro
 License: MIT
+
+#deepin logo
+Files: doxygen-awesome-css/deepin.png
+Copyright: © 2011-2022 Wuhan Deepin Technology Co., Ltd.
+License: CC-BY-4.0
